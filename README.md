@@ -1,6 +1,9 @@
 # 📊 Analyse des ventes – Power BI
 ## Réaliser par ANTON NELCON Steve
 
+<img width="1342" height="732" alt="image" src="https://github.com/user-attachments/assets/17ed9eaf-8a17-4813-ac50-061ce8b94405" />
+
+
 ## → Description
 Ce projet a pour objectif de créer un **tableau de bord interactif avec Power BI** afin d’analyser les ventes d’une petite entreprise.  
 Il permet de suivre le chiffre d’affaires, les quantités vendues et d’identifier les produits et régions les plus performants.
