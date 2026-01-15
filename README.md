@@ -1,5 +1,5 @@
 # 📊 Analyse des ventes – Power BI
-## Réaliser par ANTON NELCON Steve
+# Réaliser par ANTON NELCON Steve
 
 <img width="1342" height="732" alt="image" src="https://github.com/user-attachments/assets/17ed9eaf-8a17-4813-ac50-061ce8b94405" />
 
