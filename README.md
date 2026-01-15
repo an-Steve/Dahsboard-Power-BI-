@@ -36,8 +36,11 @@ Ce projet a été réalisé dans un but **d’apprentissage et de pratique de Po
 ---
 
 ## → Outils utilisés
-- Power BI Desktop
-- Microsoft Excel
-- DAX (Data Analysis Expressions)
+
+| Outil              | Description                                   |
+|--------------------|-----------------------------------------------|
+| Power BI Desktop   | Création des rapports et tableaux de bord     |
+| Microsoft Excel    | Stockage et préparation des données           |
+| DAX                | Création de mesures et calculs analytiques    |
 
 ---
