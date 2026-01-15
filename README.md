@@ -21,15 +21,17 @@ Ce projet a été réalisé dans un but **d’apprentissage et de pratique de Po
 
 ---
 
-## →  Jeu de données
-Les données proviennent d’un fichier Excel contenant les colonnes suivantes :
+## → Jeu de données
 
-- Date  
-- Produit  
-- Catégorie  
-- Région  
-- Quantité  
-- Prix_unitaire  
+| Colonne        | Description                     |
+|---------------|----------------------------------|
+| Date          | Date de la vente                 |
+| Produit       | Nom du produit                   |
+| Catégorie     | Catégorie du produit             |
+| Région        | Région de vente                  |
+| Quantité      | Quantité vendue                  |
+| Prix_unitaire | Prix unitaire du produit         |
+
 
 ---
 
